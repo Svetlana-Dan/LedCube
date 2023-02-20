@@ -803,8 +803,8 @@ digitalWrite(pinmode_1, HIGH);
 digitalWrite(pinmode_2, HIGH);
 digitalWrite(pinmode_3, HIGH);
 digitalWrite(pinmode_4, HIGH);
-digitalWrite(pinmode_5, HIGH);
-digitalWrite(pinmode_6, HIGH);
+digitalWrite(pinmode_5, LOW);
+digitalWrite(pinmode_6, LOW);
 }
 void first(){
       //верхний ряд первый светодиод
