@@ -992,8 +992,8 @@ digitalWrite(pinmode_1, HIGH);
 digitalWrite(pinmode_2, LOW);
 digitalWrite(pinmode_3, LOW);
 digitalWrite(pinmode_4, LOW);
-digitalWrite(pinmode_5, HIGH);
-digitalWrite(pinmode_6, HIGH);
+digitalWrite(pinmode_5, LOW);
+digitalWrite(pinmode_6, LOW);
 }
 void second_sixth(){
   //нижний ряд второй верхний ряд второй
@@ -1001,8 +1001,8 @@ digitalWrite(pinmode_1, LOW);
 digitalWrite(pinmode_2, HIGH);
 digitalWrite(pinmode_3, LOW);
 digitalWrite(pinmode_4, LOW);
-digitalWrite(pinmode_5, HIGH);
-digitalWrite(pinmode_6, HIGH);
+digitalWrite(pinmode_5, LOW);
+digitalWrite(pinmode_6, LOW);
 }
 void third_seventh(){
 //нижний ряд третий верхний ряд третий
@@ -1010,8 +1010,8 @@ digitalWrite(pinmode_1, LOW);
 digitalWrite(pinmode_2, LOW);
 digitalWrite(pinmode_3, HIGH);
 digitalWrite(pinmode_4, LOW);
-digitalWrite(pinmode_5, HIGH);
-digitalWrite(pinmode_6, HIGH);
+digitalWrite(pinmode_5, LOW);
+digitalWrite(pinmode_6, LOW);
 }
 void fourth_eighth(){
   //нижний ряд четвертый верхний ряд четвертый
@@ -1019,8 +1019,8 @@ digitalWrite(pinmode_1, LOW);
 digitalWrite(pinmode_2, LOW);
 digitalWrite(pinmode_3, LOW);
 digitalWrite(pinmode_4, HIGH);
-digitalWrite(pinmode_5, HIGH);
-digitalWrite(pinmode_6, HIGH);
+digitalWrite(pinmode_5, LOW);
+digitalWrite(pinmode_6, LOW);
 }
 void first_sixth(){
   //верхний ряд первый и нижний второй  
